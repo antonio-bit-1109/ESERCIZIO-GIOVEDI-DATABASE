@@ -1,0 +1,23 @@
+INSERT INTO Impiego (tipoImpiego , data_Assunzione , IDImpiegato )
+VALUES 
+('Part-time', '2024-02-08', 1),
+('Full-time', '2024-02-08', 7),
+('Part-time', '2024-02-08', 8),
+('Full-time', '2024-02-08', 9),
+('Full-time', '2024-02-08', 10),
+('Full-time', '2024-02-08', 11),
+('Full-time', '2024-02-08', 12),
+('Full-time', '2024-02-08', 13),
+('Part-time', '2024-02-08', 14),
+('Part-time', '2024-02-08', 15),
+('Full-time', '2024-02-08', 16),
+('Full-time', '2024-02-08', 17),
+('Full-time', '2024-02-08', 18),
+('Full-time', '2024-02-08', 19),
+('Part-time', '2024-02-08', 20),
+('Full-time', '2024-02-08', 21),
+('Part-time', '2024-02-08', 22),
+('Full-time', '2024-02-08', 23),
+('Part-time', '2024-02-08', 24),
+('Part-time', '2024-02-08', 25),
+('Full-time', '2024-02-08', 26)
